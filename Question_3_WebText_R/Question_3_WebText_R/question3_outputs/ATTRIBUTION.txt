@@ -1,0 +1,8 @@
+Source: Wikipedia contributors, Natural language processing.
+https://en.wikipedia.org/wiki/Natural_language_processing
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+Changes: prose extracted, cleaned, tokenised and selected into extractive summaries.
+The reused and adapted article text is shared under CC BY-SA 4.0.
+No images from Wikipedia were downloaded.
+Retrieval timestamp is in retrieved_utc.txt. Original HTML is cached locally.

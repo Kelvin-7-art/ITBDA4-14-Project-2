@@ -1,0 +1,13 @@
+Extracted paragraphs: 22; retained unique paragraphs: 22.
+Usable sentences: 45; analytical tokens: 635; vocabulary: 381.
+Most frequent words: language, nlp, cognitive, natural, processing
+Each summary contains 5 sentences (11.1% of usable sentences).
+Shared selected sentences: 0; sentence-set Jaccard overlap: 0.000.
+TF-IDF favours sentences containing terms distinctive across sentences.
+TextRank favours sentences connected to other sentences by shared weighted terms.
+Word frequency indicates repetition, not necessarily importance or factual correctness.
+Relative score peaks explain selection within each method, not accuracy between methods.
+Overlap measures agreement only. No reference summary was used to estimate accuracy.
+Read both summaries and assess coverage, coherence, redundancy and preserved meaning.
+Prose-only extraction excludes lists, images and tables and may omit useful information.
+Stemming was not used: retaining word forms keeps terms interpretable; variants may remain separate.

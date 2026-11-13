@@ -1,0 +1,5 @@
+Already in 1950, Alan Turing published an article titled "Computing Machinery and Intelligence," which proposed what is now called the Turing test as a criterion of intelligence, though at the time that was not articulated as a problem separate from artificial intelligence.
+This shift was influenced by increasing computational power (see Moore's law) and a decline in the dominance of Chomskyan linguistic theories (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing.
+A major drawback of statistical methods is that they require elaborate feature engineering.
+Sometimes this process is also used in cases like bag of words (BOW) creation in data mining.
+Cognition refers to "the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses."

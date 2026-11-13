@@ -1,0 +1,9 @@
+PASS: 'africa': 16 occurrences; every document, row and column agrees.
+doc1.txt: 1
+doc2.txt: 3
+doc3.txt: 8
+doc5.txt: 4
+PASS: 'SARS': 11 occurrences; every document, row and column agrees.
+doc1.txt: 11
+PASS: 'AFRICA': 7 occurrences; every document, row and column agrees.
+case.txt: 7

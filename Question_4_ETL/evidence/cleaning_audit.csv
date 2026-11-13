@@ -1,0 +1,7 @@
+measure,value
+Raw records,30
+Rejected records without usable quotation text,0
+Duplicate quotation-author pairs removed,0
+Retained records,30
+Missing tags replaced with Uncategorised,1
+Missing authors replaced with Unknown,0
